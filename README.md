@@ -51,7 +51,7 @@ project-root/
 
 ## 🌐 Live Demo
 
-[🔗 Click here to see live demo](https://your-demo-link.com)
+[🔗 Click here to see live demo](https://bahihegazi.github.io/nexcent-template/)
 
 ---
 
@@ -69,7 +69,7 @@ project-root/
 
 **Bahi Hegazi**  
 Front-end Developer  
-[LinkedIn](https://linkedin.com/in/bahi-sec) | [Email](pe.bahy@gmail.com)
+[LinkedIn](https://linkedin.com/in/bahi-sec)
 
 ---
 
