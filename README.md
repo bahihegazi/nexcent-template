@@ -69,7 +69,7 @@ project-root/
 
 **Bahi Hegazi**  
 Front-end Developer  
-[LinkedIn](https://linkedin.com/in/bahi-sec)
+[LinkedIn](https://www.linkedin.com/in/bahihegazi/)
 
 ---
 
